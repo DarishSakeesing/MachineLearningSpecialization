@@ -12,4 +12,4 @@ In the first course of the track, I am introduced to the Machine Learning. I lea
 
 2. Supervised Learning: Linear Regression
 
----------- MY PROGRESS ON THE SPECIALIZATION TRACK IS PAUSED WHILE I ATTEND THE NYC DATA SCIENCE ACADEMY-------
+---------MY PROGRESS ON THE SPECIALIZATION TRACK IS PAUSED WHILE I ATTEND THE NYC DATA SCIENCE ACADEMY-------
